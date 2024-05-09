@@ -20,7 +20,11 @@ As part of a series of Personal Projects, I have created this project to demonst
 ## About The Project:
 #### Looking for a high-tech, sleek and easy to use home alarm system? well look no further:
 
-<p>With Alarm.IO looking after your home, you can enjoy the outdoors during the day and rest peacefully during the night.</p>
+<p>
+ With Alarm.IO looking after your home, you can enjoy the outdoors during the day and rest peacefully during the night.
+
+ *Alarm.Io, made for Your Wellbeing*
+</p>
   
 ## Setup & Instructions
   
