@@ -15,7 +15,7 @@
  
 ## Project Overview
  
-As part of a series of Personal Projects, I have created this project to demonstrate the ability to use the Open-source electronic prototyping platform; Arduino, and program components to create a product.
+As part of a series of Personal Projects, I have created this project to demonstrate the ability to use the Open-source electronic prototyping platform; Arduino, and program components in C++ to create a product.
 
 ## About The Project:
 #### Looking for a high-tech, sleek and easy to use home alarm system? well look no further:
